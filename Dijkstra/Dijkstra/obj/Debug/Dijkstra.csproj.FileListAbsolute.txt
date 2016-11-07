@@ -1,6 +1,0 @@
-C:\Users\Dahir-KanehlJesseR\Documents\GitHub\CommonAlgorithms\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe.config
-C:\Users\Dahir-KanehlJesseR\Documents\GitHub\CommonAlgorithms\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe
-C:\Users\Dahir-KanehlJesseR\Documents\GitHub\CommonAlgorithms\Dijkstra\Dijkstra\bin\Debug\Dijkstra.pdb
-C:\Users\Dahir-KanehlJesseR\Documents\GitHub\CommonAlgorithms\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csprojResolveAssemblyReference.cache
-C:\Users\Dahir-KanehlJesseR\Documents\GitHub\CommonAlgorithms\Dijkstra\Dijkstra\obj\Debug\Dijkstra.exe
-C:\Users\Dahir-KanehlJesseR\Documents\GitHub\CommonAlgorithms\Dijkstra\Dijkstra\obj\Debug\Dijkstra.pdb
