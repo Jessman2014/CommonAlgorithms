@@ -1,0 +1,6 @@
+C:\Users\Dahir-KanehlJesseR\Documents\GitHub\CommonAlgorithms\MinimumNodeInTree\MinimumNodeInTree\bin\Debug\MinimumNodeInTree.exe.config
+C:\Users\Dahir-KanehlJesseR\Documents\GitHub\CommonAlgorithms\MinimumNodeInTree\MinimumNodeInTree\obj\Debug\MinimumNodeInTree.csprojResolveAssemblyReference.cache
+C:\Users\Dahir-KanehlJesseR\Documents\GitHub\CommonAlgorithms\MinimumNodeInTree\MinimumNodeInTree\bin\Debug\MinimumNodeInTree.exe
+C:\Users\Dahir-KanehlJesseR\Documents\GitHub\CommonAlgorithms\MinimumNodeInTree\MinimumNodeInTree\bin\Debug\MinimumNodeInTree.pdb
+C:\Users\Dahir-KanehlJesseR\Documents\GitHub\CommonAlgorithms\MinimumNodeInTree\MinimumNodeInTree\obj\Debug\MinimumNodeInTree.exe
+C:\Users\Dahir-KanehlJesseR\Documents\GitHub\CommonAlgorithms\MinimumNodeInTree\MinimumNodeInTree\obj\Debug\MinimumNodeInTree.pdb
